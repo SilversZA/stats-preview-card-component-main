@@ -1,0 +1,30 @@
+body {
+    background: hsl(233, 47%, 7%);
+    font-size: 15px;
+
+}
+
+.content {
+    max-width: 60rem;
+    margin: 5em auto;
+    background: hsl(244, 38%, 16%);
+    color: white;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.number {
+    color: hsl(0, 0%, 100%, 0.75);
+}
+
+h2 {
+    color: white;
+}
+
+span {
+    color: hsl(277, 64%, 61%);
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
